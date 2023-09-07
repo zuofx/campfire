@@ -1,0 +1,26 @@
+{
+  "name": "campfire",
+  "version": "1.0.0",
+  "description": "The ultimate discord utility bot.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zuofx/campfire.git"
+  },
+  "keywords": [
+    "discord"
+  ],
+  "author": "zuofx",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zuofx/campfire/issues"
+  },
+  "homepage": "https://github.com/zuofx/campfire#readme",
+  "dependencies": {
+    "discord.js": "^14.13.0",
+    "undici": "^5.23.0"
+  }
+}

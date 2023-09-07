@@ -1,0 +1,2 @@
+deprecated
+https://discord.com/oauth2/authorize?client_id=1149136830202130492&scope=bot&permissions=8&redirect_uri=http%3A%2F%2Fgithub.com%2Fzuofx%2Fcampfire
